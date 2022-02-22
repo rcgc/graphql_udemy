@@ -1,4 +1,4 @@
 # GraphQL course from udemy
 
-# Link 
+## References
 https://www.udemy.com/course/graphql-with-react-course/
