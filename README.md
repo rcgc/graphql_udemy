@@ -16,5 +16,16 @@ Users folder:
 - Query Fragments
 - Mutations
 
+Lyrical-GraphQL folder:
+- Query params
+- MongoDB Cloud
+- FrontEnd Mutations
+- React Router
+- React Route
+- React hashHistory
+- Refetching Queries
+- Component-Mutation Association
+- Apollo Client
+
 ## References
 https://www.udemy.com/course/graphql-with-react-course/
