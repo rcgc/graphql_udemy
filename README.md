@@ -27,5 +27,17 @@ Lyrical-GraphQL folder:
 - Component-Mutation Association
 - Apollo Client
 
+auth-graphql-starter:
+- Webpack
+- authentication
+- authorization
+- Sessions
+- Login mutation
+- Logout mutation
+- passport js
+- GraphQL cookies
+- Signup mutation
+- Dashboard route
+
 ## References
 https://www.udemy.com/course/graphql-with-react-course/
